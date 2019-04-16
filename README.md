@@ -1,6 +1,6 @@
 # Sudoku Validator Program (SVP)
 
-Class project for Chapman CPSC-380 (Operating Systems)
+Class project for Chapman CPSC-380 (Operating Systems).
 
 The purpose of this program is to validate a 9x9 completed Sudoku puzzle.
 The program accepts a .txt file as input and analyzes the puzzle.
